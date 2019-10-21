@@ -7,7 +7,8 @@
 - 导师评价信息因为涉及部分导师黑历史,所以就不在这上面开源了,如果想要获取,关注一下<**选个好导师**>公共号,我做成了小程序放在了公共号底部菜单里面
 #### 最后请大家不要star,自己下载salary.json文件就好。
 
-![Image text](https://github.com/1024offer/guka/blob/master/qrcode.jpg)
+![Image text](https://github.com/1024offer/guka/blob/master/qrcode.jpg) ![Image text](https://github.com/1024offer/guka/blob/master/offer024.jpg)
+
 ![Image text](https://github.com/1024offer/guka/blob/master/salary.jpg)
 
 
